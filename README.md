@@ -11,4 +11,4 @@ Galaxy Zoo 3 - Fine tune ResNet-50 model
 
 # Result
 
-The fine-tuned ResNet-50 model appears to give the best predictions. Use the notebook and test image files [here](https://github.com/hsshih/Kaggle_Galaxy_Zoo_Full/tree/main/galaxy_zoo_resnet_predictions) for a quick demo of how well the predictions match the real image.
+The fine-tuned ResNet-50 model appears to give the best predictions. Use the notebook and test image files [here](https://github.com/hsshih/Kaggle_Galaxy_Zoo_Full/tree/main/galaxy_zoo_resnet_predictions) for a quick preview of how well the predictions match the real image.
