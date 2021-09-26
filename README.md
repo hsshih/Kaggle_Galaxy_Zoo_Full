@@ -3,7 +3,7 @@ Predict classifications of the full [Galaxy Zoo dataset on Kaggle](https://www.k
 
 Three methods attempted:
 
-Galaxy Zoo 1 - CNN model, 6 convolution layers with dropouts at the end
+Galaxy Zoo 1 - Simple CNN model, 6 convolution layers with dropouts at the end
 
 Galaxy Zoo 2 - Create and train resnet models from scratch
 
